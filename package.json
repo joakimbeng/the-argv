@@ -1,6 +1,6 @@
 {
   "name": "the-argv",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "The part of argv you want",
   "main": "index.js",
   "scripts": {
